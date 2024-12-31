@@ -1,0 +1,6 @@
+
+#undef TAPPING_TERM
+#define TAPPING_TERM 200
+#define TAPPING_TERM_PER_KEY
+#define HOME_ROW_MODS
+#define PERMISSIVE_HOLD
